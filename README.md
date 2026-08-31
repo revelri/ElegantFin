@@ -23,7 +23,7 @@ This is a Jellyfin theme inspired from Jellyseerr to improve the overall look an
 
 #### **Author:** [lscambo13](https://github.com/lscambo13)
 
-> **Fork notice:** This is an unofficial downstream fork of [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin). It preserves the upstream project's authorship, license, and identity. The compatibility changes in this repository are not an upstream release; the installation URL below intentionally continues to serve the official upstream build.
+> **Fork notice:** This is an unofficial downstream fork of [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin). It preserves the upstream project's authorship, license, and identity. The small compatibility fixes here are not an upstream release, and the installation URL below deliberately serves the official upstream build. To use this fork's generated stylesheet for local testing, replace `lscambo13/ElegantFin@main` in that URL with `revelri/ElegantFin@main`.
 
 <hr>
 
